@@ -9,5 +9,4 @@
 
 :speech_balloon: Ask me about React.js, Node.js, JavaScript, CSS, MySQL, MongoDB
 
-:male-technologist: All of my projects are available at my profile GitHub
 
